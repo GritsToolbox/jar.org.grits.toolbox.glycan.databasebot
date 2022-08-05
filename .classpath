@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src.test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/glycome_molecular_framework-0.1-b12.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/ontology-api-client-0.1-b4.jar"/>
+	<classpathentry kind="lib" path="lib/resourcesdb_interfaces.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.8-beta1-20110307.jar"/>
+	<classpathentry kind="lib" path="lib/eurocarb-glycanbuilder-1.0rc.jar"/>
+	<classpathentry kind="lib" path="lib/eurocarb-glycoworkbench-1.0rc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

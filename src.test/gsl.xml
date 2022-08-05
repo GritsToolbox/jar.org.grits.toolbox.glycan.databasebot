@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<structure_filter_list>
+    <structure_filter name="Gal initiated GSL" reducing="true" include="true">RES
+1b:b-dgal-HEX-1:5
+2b:a-dgal-HEX-1:5
+LIN
+1:1o(4+1)2d</structure_filter>
+    <structure_filter name="Glc initiated GSL (Man)" reducing="true" include="true">RES
+1b:x-dglc-HEX-1:5
+2b:b-dman-HEX-1:5
+LIN
+1:1o(4+1)2d</structure_filter>
+    <structure_filter name="Glc initiated GSL (Gal)" reducing="true" include="true">RES
+1b:x-dglc-HEX-1:5
+2b:b-dgal-HEX-1:5
+LIN
+1:1o(4+1)2d</structure_filter>
+</structure_filter_list>
